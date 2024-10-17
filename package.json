@@ -58,5 +58,8 @@
     "request-debug": "0.2.0",
     "sass-loader": "7.0.1",
     "vue-jest": "3.0.4"
+  },
+  "overrides": {
+    "qs@<=6.10.3": "6.10.3"
   }
 }
